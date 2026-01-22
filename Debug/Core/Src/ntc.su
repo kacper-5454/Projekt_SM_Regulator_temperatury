@@ -1,0 +1,2 @@
+../Core/Src/ntc.c:39:7:NTC_SteinhartHart_ReadTemperature_degC	24	static
+../Core/Src/ntc.c:53:7:NTC_Beta_ReadTemperature_degC	32	static

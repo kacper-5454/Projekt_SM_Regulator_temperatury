@@ -1,0 +1,14 @@
+../Core/Src/main.c:141:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/main.c:156:6:SetHeaterPWM	3
+../Core/Src/main.c:166:6:UART_ReadSetTemperature	8
+../Core/Src/main.c:201:7:PID_Compute	5
+../Core/Src/main.c:229:5:main	16
+../Core/Src/main.c:415:6:SystemClock_Config	3
+../Core/Src/main.c:465:13:MX_ADC1_Init	3
+../Core/Src/main.c:517:13:MX_ADC2_Init	3
+../Core/Src/main.c:569:13:MX_I2C1_Init	4
+../Core/Src/main.c:617:13:MX_I2C4_Init	4
+../Core/Src/main.c:665:13:MX_TIM2_Init	4
+../Core/Src/main.c:714:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:749:13:MX_GPIO_Init	1
+../Core/Src/main.c:900:6:Error_Handler	1
